@@ -1,5 +1,5 @@
 {
-  "name": "soap",
+  "name": "pricing-soap",
   "version": "0.6.1",
   "description": "A minimal node SOAP client",
   "engines": {
